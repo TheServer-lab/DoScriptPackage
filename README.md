@@ -1,4 +1,4 @@
-## Install Programs With Do Script
+## Install Programs With DoScript
 **Git**
 ```
 do https://raw.githubusercontent.com/TheServer-lab/DoScriptPackage/refs/heads/main/files/gitbootstrap.do
