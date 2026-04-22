@@ -3,5 +3,6 @@ run "do https://raw.githubusercontent.com/TheServer-lab/DoScriptPackage/refs/hea
 run "do https://raw.githubusercontent.com/TheServer-lab/DoScriptPackage/refs/heads/main/files/pythonbootstrap.do"
 run "do https://raw.githubusercontent.com/TheServer-lab/DoScriptPackage/refs/heads/main/files/nodejsbootstrap.do"
 run "do https://raw.githubusercontent.com/TheServer-lab/DoScriptPackage/refs/heads/main/files/vscodebootstrap.do"
+run "do https://raw.githubusercontent.com/TheServer-lab/DoScriptPackage/refs/heads/main/files/javajdkbootstrap.do"
 say "Developer Kit Installed."
 pause
