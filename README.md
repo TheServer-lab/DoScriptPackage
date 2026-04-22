@@ -7,6 +7,10 @@ do https://raw.githubusercontent.com/TheServer-lab/DoScriptPackage/refs/heads/ma
 ```
 do https://raw.githubusercontent.com/TheServer-lab/DoScriptPackage/refs/heads/main/files/gitbootstrap.do
 ```
+**Node.js**
+```
+do https://raw.githubusercontent.com/TheServer-lab/DoScriptPackage/refs/heads/main/files/nodejsbootstrap.do
+```
 **Python**
 ```
 do https://raw.githubusercontent.com/TheServer-lab/DoScriptPackage/refs/heads/main/files/pythonbootstrap.do
