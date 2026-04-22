@@ -3,6 +3,10 @@
 ```
 do https://raw.githubusercontent.com/TheServer-lab/DoScriptPackage/refs/heads/main/files/7zipbootstrap.do
 ```
+**Discord**
+```
+do https://raw.githubusercontent.com/TheServer-lab/DoScriptPackage/refs/heads/main/files/discordbootstrap.do
+```
 **Git**
 ```
 do https://raw.githubusercontent.com/TheServer-lab/DoScriptPackage/refs/heads/main/files/gitbootstrap.do
@@ -18,6 +22,10 @@ do https://raw.githubusercontent.com/TheServer-lab/DoScriptPackage/refs/heads/ma
 **Python**
 ```
 do https://raw.githubusercontent.com/TheServer-lab/DoScriptPackage/refs/heads/main/files/pythonbootstrap.do
+```
+**Steam**
+```
+do https://raw.githubusercontent.com/TheServer-lab/DoScriptPackage/refs/heads/main/files/steambootstrap.do
 ```
 **VLC**
 ```
