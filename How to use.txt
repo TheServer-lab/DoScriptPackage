@@ -1,0 +1,8 @@
+Step 1 - Install DoScript:
+Run this in command prompt:
+powershell -NoProfile -ExecutionPolicy Bypass -Command "irm https://raw.githubusercontent.com/TheServer-lab/DoScript/main/install.ps1 | iex"
+or this in powershell:
+irm https://raw.githubusercontent.com/TheServer-lab/DoScript/main/install.ps1 | iex
+Step 2 - Chose the package you want to install:
+View installers.md or kits.md and pick something you want to install.
+step 3 - copy the remote script url of the chosen package and past it in Command prompt, eg. do https://raw.githubusercontent.com/TheServer-lab/DoScriptPackage/refs/heads/main/files/7zipbootstrap.do.
