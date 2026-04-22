@@ -1,4 +1,4 @@
-## Install Programs With DoScript
+## Installers
 **7zip**
 ```
 do https://raw.githubusercontent.com/TheServer-lab/DoScriptPackage/refs/heads/main/files/7zipbootstrap.do
