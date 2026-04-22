@@ -1,0 +1,3 @@
+download "https://desktop.docker.com/win/main/arm64/Docker%20Desktop%20Installer.exe?utm_source=docker&utm_medium=webreferral&utm_campaign=dd-smartbutton&utm_location=module&_gl=1*14zpl2s*_gcl_au*MjEzNjQ3NDgzNC4xNzc2ODY2Njkx*_ga*MjA4ODcxNTIxNC4xNzc2ODY2Njky*_ga_XJWPQMJYHQ*czE3NzY4NjY2OTEkbzEkZzEkdDE3NzY4NjY2OTMkajU4JGwwJGgw" to '{downloads}\_file.exe'
+run '{downloads}\_file.exe'
+delete '{downloads}\_file.exe'
