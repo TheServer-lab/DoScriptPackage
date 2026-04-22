@@ -3,9 +3,29 @@
 ```
 do https://raw.githubusercontent.com/TheServer-lab/DoScriptPackage/refs/heads/main/files/7zipbootstrap.do
 ```
+**Chrome**
+```
+do https://raw.githubusercontent.com/TheServer-lab/DoScriptPackage/refs/heads/main/files/chromebootstrap.do
+```
 **Discord**
 ```
 do https://raw.githubusercontent.com/TheServer-lab/DoScriptPackage/refs/heads/main/files/discordbootstrap.do
+```
+**Docker**
+```
+do https://raw.githubusercontent.com/TheServer-lab/DoScriptPackage/refs/heads/main/files/dockerbootstrap.do
+```
+**Epic Games Launcher**
+```
+do https://raw.githubusercontent.com/TheServer-lab/DoScriptPackage/refs/heads/main/files/epicgameslauncherbootstrap.do
+```
+**FireFox**
+```
+do https://github.com/TheServer-lab/DoScriptPackage/blob/main/files/firefoxbootstrap.do
+```
+**Gimp**
+```
+do https://github.com/TheServer-lab/DoScriptPackage/blob/main/files/gimpbootstrap.do
 ```
 **Git**
 ```
@@ -19,6 +39,18 @@ do https://raw.githubusercontent.com/TheServer-lab/DoScriptPackage/refs/heads/ma
 ```
 do https://raw.githubusercontent.com/TheServer-lab/DoScriptPackage/refs/heads/main/files/nodejsbootstrap.do
 ```
+**Notepad++**
+```
+do https://github.com/TheServer-lab/DoScriptPackage/blob/main/files/notpadplusplusbootstrap.do
+```
+**OBS**
+```
+do https://raw.githubusercontent.com/TheServer-lab/DoScriptPackage/refs/heads/main/files/obsbootstrap.do
+```
+**Postman**
+```
+do https://raw.githubusercontent.com/TheServer-lab/DoScriptPackage/refs/heads/main/files/postmanbootstrap.do
+```
 **Python**
 ```
 do https://raw.githubusercontent.com/TheServer-lab/DoScriptPackage/refs/heads/main/files/pythonbootstrap.do
@@ -26,6 +58,14 @@ do https://raw.githubusercontent.com/TheServer-lab/DoScriptPackage/refs/heads/ma
 **Steam**
 ```
 do https://raw.githubusercontent.com/TheServer-lab/DoScriptPackage/refs/heads/main/files/steambootstrap.do
+```
+**Telegram**
+```
+do https://raw.githubusercontent.com/TheServer-lab/DoScriptPackage/refs/heads/main/files/telegrambootstrap.do
+```
+**VirtualBox**
+```
+do https://raw.githubusercontent.com/TheServer-lab/DoScriptPackage/refs/heads/main/files/virtualboxbootstrap.do
 ```
 **VLC**
 ```
