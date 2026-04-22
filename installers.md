@@ -19,6 +19,10 @@ do https://raw.githubusercontent.com/TheServer-lab/DoScriptPackage/refs/heads/ma
 ```
 do https://raw.githubusercontent.com/TheServer-lab/DoScriptPackage/refs/heads/main/files/pythonbootstrap.do
 ```
+**VLC**
+```
+do https://raw.githubusercontent.com/TheServer-lab/DoScriptPackage/refs/heads/main/files/vlcbootstrap.do
+```
 **VS Code**
 ```
 do https://raw.githubusercontent.com/TheServer-lab/DoScriptPackage/refs/heads/main/files/vscodebootstrap.do
